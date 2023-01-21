@@ -18,8 +18,11 @@ export class ApiService {
         .pipe(map((data) => data as DataModel[]))
     )
       .then((data) => {
-        this.list = [...data];
-        this.tempList = [...data];
+        this.list = data.map((x, y) => {
+          return { ...x, id: y };
+        });
+        this.tempList = [...this.list];
+        console.log(this.tempList);
       })
       .catch(console.error);
   }

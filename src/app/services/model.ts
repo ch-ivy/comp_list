@@ -6,4 +6,5 @@ export interface DataModel {
   description: string;
   site_socials: any;
   industry: any;
+  id?: any;
 }
