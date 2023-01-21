@@ -66,11 +66,13 @@ export class AppComponent implements OnInit {
 
   filterListByFilters() {
     this.api.list = [];
+
     for (let i = 0; i < this.filters.length; i++) {
       const a = [...this.api.tempList].filter((x) =>
         x.industry.includes(this.filters[i])
       );
       this.api.list.push(...a);
+      this.api.list = [...new Set(this.api.list)];
     }
   }
 
