@@ -9,6 +9,8 @@ import { DataModel } from './model';
 export class ApiService {
   list: DataModel[] = [];
   tempList: DataModel[] = [];
+  filters: string[] = [];
+
   constructor(private http: HttpClient) {}
 
   async getData() {

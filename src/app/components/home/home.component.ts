@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { BehaviorSubject } from 'rxjs';
 import { ApiService } from 'src/app/services/api.service';
-import { DataModel } from 'src/app/services/model';
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -14,6 +12,10 @@ export class HomeComponent implements OnInit {
 
   get list() {
     return this.api.list;
+  }
+
+  get filters() {
+    return this.api.filters;
   }
 
   async ngOnInit(): Promise<void> {

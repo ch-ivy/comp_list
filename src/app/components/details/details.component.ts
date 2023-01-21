@@ -20,6 +20,7 @@ export class DetailsComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.api.filters = [];
     this.route.queryParams.subscribe((x) => {
       const id = x['id'];
       if (id && this.api.tempList.length > id) {

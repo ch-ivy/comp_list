@@ -6,27 +6,21 @@
       >
         <a
           href="/"
-          class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none"
+          routerLink="/"
+          class="d-flex align-items-center h3 fw-bold mb-2 mb-lg-0 text-white text-decoration-none"
         >
-          <svg
-            class="bi me-2"
-            width="40"
-            height="32"
-            role="img"
-            aria-label="Bootstrap"
-          >
-            <use xlink:href="#bootstrap"></use>
-          </svg>
+          COMPLIST
         </a>
 
         <div
+          *ngIf="url == '/'"
           ngbDropdown
           class="col-12 col-lg-auto mb-3 mb-lg-0 d-flex flex-wrap justify-content-center"
           role="search"
         >
           <input
             [(ngModel)]="search"
-            (ngModelChange)="searchList()"
+            (ngModelChange)="filterSearch()"
             type="search"
             class="form-control form-control-dark text-bg-white my-1"
             style="width: 300px"
@@ -44,7 +38,7 @@
 
           <div class="dropdown-menu" ngbDropdownMenu>
             <ng-container *ngFor="let item of industries">
-              <button (click)="filterList(item)" ngbDropdownItem>
+              <button (click)="addFilter(item)" ngbDropdownItem>
                 {{ item }}
               </button>
             </ng-container>
@@ -54,7 +48,20 @@
     </div>
   </header>
 
-  <div class="mt-5"></div>
+  <div class="mt-5 container">
+    <div class="d-flex justify-content-center">
+      <ng-container *ngFor="let ind of filters">
+        <span class="badge rounded-pill mx-2 h3 text-bg-dark">
+          {{ ind }}
+
+          <span
+            (click)="clearFilter(ind)"
+            class="bi bi-x text-danger cursor-pointer"
+          ></span>
+        </span>
+      </ng-container>
+    </div>
+  </div>
 
   <router-outlet></router-outlet>
 </ng-container>
