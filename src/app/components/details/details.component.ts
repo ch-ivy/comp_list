@@ -21,12 +21,9 @@ export class DetailsComponent implements OnInit {
 
   ngOnInit(): void {
     this.route.queryParams.subscribe((x) => {
-      console.log(x);
-
       const id = x['id'];
       if (id && this.api.tempList.length > id) {
         this.details = this.api.tempList[id];
-        console.log(this.details);
       } else {
         this.router.navigate(['']);
       }

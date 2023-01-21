@@ -22,7 +22,6 @@ export class ApiService {
           return { ...x, id: y };
         });
         this.tempList = [...this.list];
-        console.log(this.tempList);
       })
       .catch(console.error);
   }
