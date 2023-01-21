@@ -1,0 +1,55 @@
+<div class="container">
+  <div class="mt-5">
+    <ng-container *ngIf="list.length">
+      <div class="row">
+        <ng-container
+          *ngFor="
+            let item of list | slice : (page - 1) * pageSize : page * pageSize;
+            index as i
+          "
+        >
+          <div class="col-4 my-2">
+            <a routerLink="/details" [queryParams]="{ id: i }">
+              <div class="card text-dark shadow">
+                <div class="card-body">
+                  <div class="w-100">
+                    <div class="img-box mx-auto">
+                      <img [src]="item.logo" [alt]="item.name" />
+                    </div>
+                  </div>
+                  <h2 class="card-title text-center">
+                    {{ item.name | titlecase }}
+                  </h2>
+                  <p class="card-text">
+                    {{ item.description.substring(0, 150) }}...
+                  </p>
+
+                  <p>
+                    <ng-container *ngFor="let ind of item.industry">
+                      <span class="badge rounded-pill mx-1 text-bg-light">
+                        {{ ind }}
+                      </span>
+                    </ng-container>
+                  </p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </ng-container>
+      </div>
+
+      <div class="my-5 d-flex justify-content-center">
+        <ngb-pagination
+          [(page)]="page"
+          [pageSize]="pageSize"
+          [collectionSize]="list.length"
+          class="text-dark"
+        ></ngb-pagination>
+      </div>
+    </ng-container>
+
+    <ng-container *ngIf="!list.length">
+      <h3 class="text-center mt-5">No Entries Found</h3>
+    </ng-container>
+  </div>
+</div>

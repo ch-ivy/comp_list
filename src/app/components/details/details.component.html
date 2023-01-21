@@ -1,0 +1,102 @@
+<div class="container">
+  <div class="mt-5">
+    <div>
+      <button
+        routerLink=""
+        type="button"
+        class="btn btn-dark rounded-pill px-3"
+      >
+        <span class="bi bi-chevron-left"></span>
+        back
+      </button>
+    </div>
+    <div class="col-md-9 mx-auto">
+      <div class="card shadow p-sm-3 mb-5">
+        <div class="card-body">
+          <div class="logo-box mx-auto">
+            <img [src]="details.logo" [alt]="details.name" class="img-fluid" />
+          </div>
+          <div class="mt-5">
+            <h1 class="text-center">
+              {{ details.name }}
+              <sup>
+                <a [href]="details.website" target="_blank">
+                  <i class="bi bi-box-arrow-up-right h5 text-primary"></i
+                ></a>
+              </sup>
+            </h1>
+            <p class="text-center mb-5">
+              <ng-container *ngFor="let ind of details.industry">
+                <span class="badge rounded-pill mx-1 text-bg-light">
+                  {{ ind }}
+                </span>
+              </ng-container>
+            </p>
+
+            <div class="socials mb-3 d-flex justify-content-end">
+              <ng-container
+                *ngFor="let item of details.site_socials | keyvalue"
+              >
+                <span class="badge rounded-5 mx-2 shadow-custom bg-dark">
+                  <a
+                    *ngIf="item.value"
+                    [href]="item.value"
+                    target="_blank"
+                    class="text-white h4 mx-2"
+                  >
+                    <i class="bi bi-{{ splitText(item.value) }}"></i>
+                  </a>
+                </span>
+              </ng-container>
+            </div>
+
+            <p class="mb-5">
+              {{ details.description }}
+            </p>
+
+            <div class="mt-2 mb-1">
+              <h3>Founders</h3>
+              <div class="d-flex flex-wrap">
+                <ng-container
+                  *ngFor="let founder of details.founders | keyvalue"
+                >
+                  <h5 class="mx-3">
+                    {{ founder.key }}
+                    <ng-container
+                      *ngFor="let link of textToArray(founder.value)"
+                    >
+                      <a
+                        *ngIf="
+                          splitText(link) == 'facebook' ||
+                          splitText(link) == 'twitter' ||
+                          splitText(link) == 'linkedin'
+                        "
+                        [href]="link"
+                        target="_blank"
+                        class="text-dark h6 me-2 shadow"
+                      >
+                        <i class="bi bi-{{ splitText(link) }}"></i>
+                      </a>
+                      <a
+                        *ngIf="
+                          splitText(link) != 'facebook' &&
+                          splitText(link) != 'twitter' &&
+                          splitText(link) != 'linkedin'
+                        "
+                        [href]="link"
+                        target="_blank"
+                        class="text-dark h6 me-2 shadow"
+                      >
+                        <i class="bi bi-link-45deg"></i>
+                      </a>
+                    </ng-container>
+                  </h5>
+                </ng-container>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

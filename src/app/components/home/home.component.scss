@@ -1,0 +1,19 @@
+.img-box {
+  width: 100px;
+  height: 100px;
+  img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+  }
+}
+
+.card {
+  height: 380px;
+  border-radius: 12px;
+  border-color: transparent !important;
+}
+
+a {
+  text-decoration: none !important;
+}

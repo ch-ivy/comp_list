@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Clever",
+    "logo": "https://klazify.s3.amazonaws.com/10615444821618925098607ed62aa1c336.71794410.png",
+    "website": "https://clever.com/",
+    "founders": {
+      "Dan Carroll": "https://www.linkedin.com/in/danielcarroll,https://www.twitter.com/bytingtheapple,http://www.facebook.com/daniel.c.carroll",
+      "Rafael Garcia": "https://www.facebook.com/rafgarcia,https://www.linkedin.com/in/rfgarcia,http://www.twitter.com/rfgarcia"
+    },
+    "description": "Clever is a digital learning platform designed for K12 schools and used by 22 million students and teachers.\nClever operates as a single sign-on platform for K-12 education. It unlocks a wealth of digital learning, so teachers can meet each student where they are. Clever brings all applications into one secure portal and provides single sign-on for everyone in the district. It was founded in 2012 and is based in San Francisco, California.\nClever has raised a total of $43.3M in funding over 4 rounds. Their latest funding was raised on Dec 16, 2014 from a Series B round.\nClever is funded by 27 investors. Lightspeed Venture Partners and GSV Ventures are the most recent investors.\nClever uses 57 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.\nClever is actively using 103 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF.",
+    "site_socials": {
+      "facebook_url": "https://www.facebook.com/clever",
+      "twitter_url": "https://www.twitter.com/clever",
+      "instagram_url": null,
+      "medium_url": null,
+      "youtube_url": null,
+      "pinterest_url": null,
+      "linkedin_url": "https://www.linkedin.com/company/clever-inc-/",
+      "github_url": null
+    },
+    "industry": [
+      "Technology",
+      "Information Technology & Services",
+      "Internet",
+      "SAAS",
+      "B2B"
+    ]
+  },
+  {
+    "name": "Pluto",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/yiipnmo2umwwzxuzx2kk",
+    "website": "https://pluto.travel/",
+    "founders": {
+      "Harry Williams": "https://www.twitter.com/_harrywilliams?lang=en,https://www.linkedin.com/in/harryewilliams/?originalSubdomain=in"
+    },
+    "description": "Pluto helps travel lovers discover inspiration, plan their trips and connect with like-minded people. It’s like Pinterest, but for travel. Pluto was started by travel lovers, for travel lovers. \n You know the type. Tourist traps, soulless resorts, chain restaurants. It's not the jam. And if it's not yours either, you're in the right place. \n So as a team of design enthusiasts, product people and techies, Pluto decided to dosomething about it which is create tools to help travel lovers make the most of every trip. \n Over time, Pluto want to provide a suite of tools that support you through every step of your journey. \n Right now, we're focused on three areas: \n - Discover new and relevant inspiration and recommendations for an upcoming trip. \n - Plan your trip, saving places you want to visit, planning with others, and storing booking info \n - Connect with like-minded travellers as part of a community, view, and share recommendations with others.\nPluto has raised a total of £1.2M in funding over 4 rounds. Their latest funding was raised on May 1, 2021 from a Pre-Seed round.\nPluto is actively using 48 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF",
+    "site_socials": {},
+    "industry": ["Consumer", "Consumer Software", "Mobile", "Travel"]
+  },
+  {
+    "name": "Nextdoor",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/layfql0n7ktkkq3rvjh6",
+    "website": "nextdoor.com",
+    "founders": {
+      "Adam Ginsburg": "https://www.linkedin.com/in/adam-ginsburg-4633121",
+      "David Wiesen": "https://www.twitter.com/iceweasel,https://www.linkedin.com/in/davidwiesen"
+    },
+    "description": "Nextdoor is where you connect to the neighborhoods that matter to you so you can belong. Kindness is core to Nextdoor’s purpose: to cultivate a kinder world where everyone has a neighborhood they can rely on. Neighbors around the world turn to Nextdoor daily to receive trusted information, give and get help, get things done, and build real-worldconnections with those nearby — neighbors, businesses, and public services. Neighbors rely on Nextdoor around the world, including the United States (nearly 1 in 3 U.S. households), the United Kingdom, Germany, France, the Netherlands, Italy, Spain, Sweden, Denmark, Australia, and Canada, with many more to come. Nextdoor is based in San Francisco, CA.\nNextdoor has raised a total of $736.5M in funding over 13 rounds. Their latest funding was raised on Jan 17, 2023 from a Venture - Series Unknown round.\nNextdoor is registered under the ticker \nNYSE:KIND\n.\nNextdoor is funded by 33 investors. Shasta Ventures and Benchmark are the most recent investors.\nNextdoor has a post-money valuation in the range of $1B to $10B as of Sep 11, 2019, according to PrivCo. Sign up for a free trial to view exact valuation and search companies with similar valuations.\nNextdoor has acquired 3 organizations. Their most recent acquisition was Neighborland on Apr 1, 2020.\nNextdoor uses 65 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.\nNextdoor is actively using 107 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and LetsEncrypt.",
+    "site_socials": {},
+    "industry": [
+      "CivicTech",
+      "Communities",
+      "Internet ",
+      "Mobile Apps ",
+      "Social Media"
+    ]
+  },
+  {
+    "name": "Eightfold AI",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/rjphwkzyih2hvupq74fd",
+    "website": "https://eightfold.ai/",
+    "founders": {
+      "Ashutosh Garg": "http://www.twitter.com/ashutoshg,https://www.linkedin.com/in/ashutoshgarg893,https://www.facebook.com/ashutoshgarg",
+      "Varun Kacholia": "https://www.linkedin.com/in/varunkacholia/"
+    },
+    "description": "Eightfold is a developer of a talent intelligence platform used to help companies find, recruit, and retain workers. Its platform bridges the talent gap by using the power of artificial intelligence which helps to turn talent management into a competitive advantage and enables clients to match candidates to the right roles. \nEightfold was foundedin 2016 and is headquartered in Mountain View, California.\nEightfold AI provides a complete AI platform for talent management to help companies find, recruit, and retain workers.\nEightfold AI has raised a total of $396.8M in funding over 5 rounds. Their latest funding was raised on Jun 10, 2021 from a Series E round.\nEightfold AI is funded by 7 investors. Foundation Capital and Lightspeed Venture Partners are the most recent investors.\nEightfold AI has a post-money valuation in the range of $1B to $10B as of Jun 10, 2021, according to PrivCo. Sign up for a free trial to view exact valuation and search companies with similar valuations.\nEightfold AI uses 40 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.\nEightfold AI is actively using 133 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF.",
+    "site_socials": {
+      "facebook_url": "https://www.facebook.com/eightfoldai/",
+      "twitter_url": "https://www.twitter.com/eightfoldai",
+      "instagram_url": null,
+      "medium_url": null,
+      "youtube_url": "https://www.youtube.com/channel/UC0eXdhFA7d2ajgANDoL53Yg",
+      "pinterest_url": null,
+      "linkedin_url": "https://www.linkedin.com/company/eightfoldai/",
+      "github_url": null
+    },
+    "industry": [
+      "Artificial Intelligence",
+      "Business Intelligence",
+      "Human Resources",
+      "Information Technology",
+      "Recruiting SaaS"
+    ]
+  },
+  {
+    "name": "Subscript",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/uriqrbs9t1jtdvj8y5wh",
+    "website": "https://www.subscript.com/",
+    "founders": {
+      "Sidharth Kakkar": "https://www.linkedin.com/in/sidharthkakkar,https://www.twitter.com/sikakkar,https://www.facebook.com/sikakkar"
+    },
+    "description": "Subscript’s subscription intelligence platform empowers B2B SaaS leaders to easily dive deep into their subscription metrics.\nSubscript has raised a total of — in funding over 1 round. This was a Seed round raised on Jan 27, 2022.\nSubscript is funded by 4 investors. Fresco Capital and HorizonVC are the most recent investors.\nSubscript is actively using 47 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and LetsEncrypt.",
+    "site_socials": {},
+    "industry": ["Software Subscription", "Service"]
+  },
+  {
+    "name": "ConsenSys",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1434123514/geq4riah80rcsdqwkf08.jpg",
+    "website": "https://consensys.net/",
+    "founders": {
+      "Kishore Atreya": "https://www.linkedin.com/in/think2win",
+      "Joseph Lubin": "https://www.facebook.com/joseph.lubin.31,https://www.twitter.com/ethereumJoseph,https://www.linkedin.com/in/joseph-lubin-48406489",
+      "Donnie Benjamin": "https://www.linkedin.com/in/donnie-benjamin/?originalSubdomain=uk",
+      "Chris Lewicki": "https://www.linkedin.com/in/chrislewicki"
+    },
+    "description": "ConsenSys is an Ethereum software web3 company. ConsenSys enables developers, enterprises, and people worldwide to build next-generation applications, launch modern financial infrastructure, and access the decentralized web. ConsenSys' product suite, composed of Infura, Quorum, Truffle, Codefi, MetaMask, and Diligence, serves millions ofusers, supports billions of blockchain-based queries for its clients, and has handled billions of dollars in digital assets. Ethereum is the largest programmable blockchain in the world, leading in business adoption, developer community, and DeFi activity. On this trusted, open source foundation, ConsenSys is building the digital economy of tomorrow. ConsenSys has raised a total of $726.7M in funding over 8 rounds. Their latest funding was raised on Oct 18, 2022 from a Secondary Market round.\nConsenSys is funded by 49 investors. SharesPro and Axevil Capital are the most recent investors.\nConsenSys has made 49 investments. Their most recent investment was on Jan 5, 2023, when Candy Digital raised $38.4M.\nConsenSys has invested in Civil on Jan 5, 2023. This investment - Venture Round - Civil - was valued at $38.4M.\nConsenSys has had 3 exits. ConsenSys's most notable exits include ErisX, Trustology, and Truffle Suite.\nConsenSys has acquired 7 organizations. Their most recent acquisition was MyCrypto on Feb 1, 2022.",
+    "site_socials": {
+      "twitter_url": "https://www.twitter.com/ConsenSys/",
+      "linkedin_url": "https://www.linkedin.com/company/consensus-systems-consensys-/",
+      "youtube_url": "https://www.youtube.com/channel/UCBeLEwM-yhIKuIxHTx0VzdQ/",
+      "facebook_url": "https://www.facebook.com/ConsenSysOfficial",
+      "instagram_url": "https://www.instagram.com/consensysofficial/"
+    },
+    "industry": [
+      "Blockchain",
+      "Cryptocurrency",
+      "FinTech",
+      "Mobile",
+      "Software"
+    ]
+  },
+  {
+    "name": "Clarity PR",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/t5qniz003dnxgxvm14zw",
+    "website": "https://clarity.global/",
+    "founders": {
+      "Sami McCabe": "http://www.twitter.com/samimccabe,https://www.linkedin.com/in/samimccabe"
+    },
+    "description": "Clarity is a digital marketing and communications firm that believes in the power of technology to affect positive change in the world. Clarity is a global integrated communications agency focused on telling the stories of technology companies large and small, from seed-funded startups to industry titans. Clarity brings together teams of experts tosolve communications challenges with proven earned, paid, and owned strategies while building proprietary technology to push the industry forward. \nClarity PR has raised a total of — in funding over 1 round. This was a Corporate Round round raised on Nov 12, 2019. \nClarity PR is funded by freuds. \nClarity PR has acquired 6 organizations. Their most recent acquisition was Sefiani Communications Group on Jan 16, 2023. \nClarity PR uses 8 technology products and services including Google Analytics, Vimeo, and Wordpress, according to G2 Stack. \nClarity PR is actively using 46 technologies for its website, according to BuiltWith. These include SPF, IPv6, and Cloudflare Hosting. ",
+    "site_socials": {},
+    "industry": [
+      "B2B",
+      "EdTech",
+      "Mobile",
+      "Public Relations",
+      "Retail Technology",
+      "Software"
+    ]
+  },
+  {
+    "name": "Meesho",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/kjbm55kmrzhnofciajm1",
+    "website": "http://www.meesho.com/",
+    "founders": {
+      "Sanjeev Barnwal": "https://www.twitter.com/barnwalSanjeev,https://www.linkedin.com/in/sanjeev-barnwal-4099341b",
+      "Vidit Aatrey": "https://www.twitter.com/viditaatrey.https://www.linkedin.com/in/vidit-aatrey-a3639120,https://www.facebook.com/aatrey"
+    },
+    "description": "Meesho operates as an online reselling platform that enables anyone to start a business without investment. Meesho is a business platform trusted by more than 2.6 million resellers across India. The company was founded in 2015 by Vidit Aatrey and Sanjeev Barnwa and is headquartered in Bangalore, Karnataka \n Meesho has raised a total of $1.1B in funding over 11 rounds. Their latest funding was raised on Oct 20, 2021 from a Debt Financing round. \n Meesho is funded by 37 investors. Trifecta Capital Advisors and Good Capital are the most recent investors.\nMeesho has made 2 investments. Their most recent investment was on Mar 4, 2021, when Elenas raised $6M. \n Meesho has 8 current employee profiles, including Founder and CEO Vidit Aatrey. \nMeesho uses 33 technology products and services including HTML5, Google Analytics, and Google Fonts, according to G2 Stack. \nMeesho is actively using 98 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF. ",
+    "site_socials": {
+      "facebook_url": null,
+      "twitter_url": null,
+      "instagram_url": null,
+      "medium_url": "https://www.medium.com/meesho-tech",
+      "youtube_url": null,
+      "pinterest_url": null,
+      "linkedin_url": null,
+      "github_url": null
+    },
+    "industry": ["Fashion"]
+  },
+  {
+    "name": "Flipkart",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nx598tedbjr4p88v6aww",
+    "website": "https://www.flipkart.com/",
+    "founders": {
+      "Binny Bansal": "https://www.twitter.com/binnybansal,http://www.linkedin.com/in/binnybansal,https://www.facebook.com/AmanBansalcanada",
+      "Sachin Bansal": "https://www.chandravanshi.org/,https://www.twitter.com/_sachinbansal,http://www.linkedin.com/in/sachinbansal"
+    },
+    "description": "Flipkart is an e-commerce marketplace that offers over 30 million products across 70+ categories. It provides books, movies, music, games, consoles, gaming accessories, mobiles, mobile accessories, cameras, camera accessories, computers, computer accessories, network components, software, peripherals, home and kitchen appliances, TV, and videoproducts, and personal and health care products.\nFlipkart, currently 33,000 people strong, has 75 million registered users clocking over 10 million daily visits. Flipkart’s technology has enabled it to deliver 8 million shipments per month – and this number is only growing.\n\nBinny and Sachin Bansal founded Flipkart in 2007, with headquarters in Bengaluru in India. In 2018, the company was acquired by the giant retail corporation, Walmart. \n Flipkart has raised a total of $12.9B in funding over 26 rounds. Their latest funding was raised on Jun 13, 2022 from a Secondary Market round. \nFlipkart is funded by 30 investors. Tencent and SoftBank Vision Fund are the most recent investors. \nFlipkart has made 34 investments. Their most recent investment was on Sep 19, 2022, when Flipkart Marketplace raised $30M. \nFlipkart has had 3 exits. Flipkart's most notable exits include Myntra, Flipkart, and Aditya Birla Fashion and Retail. \nFlipkart has acquired 17 organizations. Their most recent acquisition was ANS Commerce on Apr 19, 2022. \n    Flipkart has 63 current employee profiles, including CEO Kalyan Krishnamurthy. \nFlipkart has 9 board members and advisors, including Lee Fixel. \n Flipkart uses 51 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack. \nFlipkart is actively using 111 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and Google Font API.",
+    "site_socials": {
+      "facebook_url": "https://www.facebook.com/flipkart",
+      "twitter_url": "https://www.twitter.com/flipkart",
+      "instagram_url": null,
+      "medium_url": null,
+      "youtube_url": "https://www.youtube.com/flipkart",
+      "pinterest_url": null,
+      "linkedin_url": null,
+      "github_url": null
+    },
+    "industry": ["E-Commerce", "Internet", "Marketplace", "Shopping"]
+  },
+  {
+    "name": "NVIDIA",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1502744943/jhowtgkdwv2aa1eodg2b.png",
+    "website": "https://clever.com/",
+    "founders": {
+      "Chris Malachowsky": "https://www.linkedin.com/in/chris-malachowsky-983468b0",
+      "Curtis Priem": "",
+      "Jensen Huang": "http://www.linkedin.com/in/jenhsunhuang"
+    },
+    "description": "NVIDIA is a computing platform company, innovating at the intersection of graphics, HPC, and AI. The company specializes in the manufacture of graphics-processor technologies for workstations, desktop computers, and mobile devices. The company is a major supplier of integrated circuits used for personal-computer motherboard chipsets, graphicsprocessing units (GPUs), and game-consoles.\nFounded in 1993, NVIDIA is headquartered in Santa Clara, California. \n NVIDIA has raised a total of $100M in funding over 5 rounds. Their latest funding was raised on Aug 9, 2022 from a Post-IPO Equity round. \n NVIDIA is registered under the ticker NASDAQ:NVDA. \n NVIDIA is funded by 6 investors. ARK Investment Management and SoftBank Vision Fund are the most recent investors. \n NVIDIA has made 32 investments. Their most recent investment was on Nov 29, 2022, when Deepgram raised $47M. \nNVIDIA has made 3 diversity investments. Their most recent diversity investment was on Apr 26, 2022, when Ayar Labs raised $130M.\nNVIDIA has had 4 exits. NVIDIA's most notable exits include OUYA, MotionDSP, and Rocketick.\nNVIDIA has acquired 21 organizations. Their most recent acquisition was Animatico on May 1, 2022.\n NVIDIA uses 111 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.\nNVIDIA is actively using 157 technologies for its website, according to BuiltWith. These include SSL by Default, LetsEncrypt, and Content Delivery Network.",
+    "site_socials": {
+      "youtube_url": "https://www.youtube.com/user/nvidia",
+      "facebook_url": "https://www.facebook.com/NVIDIA",
+      "twitter_url": "https://www.twitter.com/nvidia",
+      "linkedin_url": "https://www.linkedin.com/company/nvidia/",
+      "instagram_url": "https://www.instagram.com/nvidia/?hl=en"
+    },
+    "industry": [
+      "Artificial Intelligence",
+      "GPU",
+      "Hardware",
+      "Software",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "name": "Netskope",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ppjqcs2pts1w4xj3ebyz",
+    "website": "https://www.netskope.com/",
+    "founders": {
+      "Krishna Narayanaswamy": "https://www.linkedin.com/in/krishna-narayanaswamy-9855265/",
+      "Lebin Cheng": "https://www.twitter.com/lebincheng,https://www.linkedin.com/in/lebin/",
+      "Sanjay Beri": "https://www.netskope.com/,http://twitter.com/sanjberi,http://www.linkedin.com/in/sanjayberi/"
+    },
+    "description": "Netskope is a security platform to protect data, stop threats, or any application. \nNetskope links users to the internet, any application, and their infrastructure from any device, on or off the network, in a secure and fast manner. Unlike competitors who force security and networking choices, their global security private cloud offers complete computation capabilities at the edge. It's fast everywhere, data-driven, andcloud-savvy, all while promoting good digital citizenship and lowering the total cost of ownership. Netskope has raised a total of $1.4B in funding over 12 rounds. Their latest funding was raised on Jan 5, 2023 from a Convertible Note round.\nNetskope is funded by 23 investors. Goldman Sachs Asset Management and CPP Investments are the most recent investors.\nNetskope has a post-money valuation in the range of $1B to $10B as of Jul 9, 2021, according to PrivCo. Sign up for a free trial to view exact valuation and search companies with similar valuations.\nNetskope has acquired 5 organizations. Their most recent acquisition was Infiot on Aug 2, 2022.\nNetskope uses 59 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.\nNetskope is actively using 71 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and LetsEncrypt.",
+    "site_socials": {
+      "facebook_url": "https://www.facebook.com/netskope",
+      "twitter_url": "https://www.twitter.com/netskope",
+      "instagram_url": null,
+      "medium_url": null,
+      "youtube_url": null,
+      "pinterest_url": null,
+      "linkedin_url": "https://www.linkedin.com/company/netskope",
+      "github_url": null
+    },
+    "industry": [
+      "Cloud Security",
+      "Cyber Security",
+      "Enterprise Software",
+      "Software"
+    ]
+  },
+  {
+    "name": "Bbot",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/a9pkdy4ayozu8nszepes",
+    "website": "https://bbot.menu/",
+    "founders": {
+      "Greg Jaworski": "https://www.linkedin.com/in/gregoryjaworski/",
+      "Luke Allen": "https://www.linkedin.com/in/luke-allen-4b232148/",
+      "Steven Simoni": "https://www.twitter.com/StevenSimoni,https://www.linkedin.com/in/stevensimoni/,https://www.facebook.com/steven.m.simoni,http://stevensimoni.com/"
+    },
+    "description": "Bbot is a restaurant and hospitality tech startup dedicated to simplifying and improving the ordering and payments process. Bbot offers a configurable solution for restaurants, bars, hotels, cinemas, and other hospitality organizations to create digital menus and provide guest-controlled, contactless ordering, and payment.\n\nIt was founded in 2017by Greg Jaworski, Luke Allen, and Steven Simoni and is based in Astoria, New York. \n Bbot has raised a total of $22.2M in funding over 7 rounds. Their latest funding was raised on Nov 1, 2021 from a Series A round. \nBbot is funded by 9 investors. Steven Kamali and Rally Ventures are the most recent investors. \n Bbot uses 21 technology products and services including HTML5, Google Analytics, and Google Fonts, according to G2 Stack. \nBbot is actively using 51 technologies for its website, according to BuiltWith. These include SPF, Apple Mobile Web Clips Icon, and Global Site Tag.",
+    "site_socials": {},
+    "industry": ["Food and Beverage", "Hospitality", "Payments", "Restaurants"]
+  },
+  {
+    "name": "Bamboo",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/yblkfsv5phcqwfrkkxmg",
+    "website": "https://bamboo.app/",
+    "founders": {
+      "Alan Haverty": "",
+      "Luke Mackey": "https://www.twitter.com/Luke_Mackey,https://www.linkedin.com/in/luke-mackey/"
+    },
+    "description": "The social way for busy people to order pick-up meals from great restaurants around your office. \n Bamboo has raised a total of €500K in funding over 1 round. This was a Seed round raised on Mar 29, 2018 and is funded by Enterprise Ireland. \n Bamboo uses 10 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack. \n Bamboo is actively using 44 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SSL by Default.",
+    "site_socials": {},
+    "industry": ["Mobile Apps", "Mobile Payments", "Payments"]
+  },
+  {
+    "name": "Randstad",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1413791691/nvhecq9vsspn9yz2w5fe.jpg",
+    "website": "http://www.randstad.com/",
+    "founders": {
+      "Frits Goldschmeding": ""
+    },
+    "description": "Randstad is a global solutions provider in staffing and recruitment consultancy, placing talent in permanent and temporary job positions across all job levels in every industry. It consists of a group of experts in selection, evaluation, and talent search.\n\nRandstad also has knowledge of the labor market and skills requested by its clients due toits specialized profiles in the sectors of finance, sales, engineering, and health and pharmaceuticals.\nThe company was founded in 2011 and is based in Madrid.\n Randstad is registered under the ticker AMS:RAND. \nRandstad has made 2 investments. Their most recent investment was on Feb 1, 2022, when Crunchr raised. \nRandstad has acquired 9 organizations. Their most recent acquisition was Monster on Aug 8, 2016. They acquired Monster for $429M.\n Randstad uses 32 technology products and services including HTML5, Google Analytics, and Google Fonts, according to G2 Stack. \nRandstad is actively using 63 technologies for its website, according to BuiltWith. These include LetsEncrypt, Google Font API, and WordPress.",
+    "site_socials": {
+      "facebook_url": "https://www.facebook.com/Randstad",
+      "twitter_url": "https://www.twitter.com/Randstad",
+      "instagram_url": null,
+      "medium_url": null,
+      "youtube_url": "https://www.youtube.com/channel/UCdmqTXc-yXEOWPM6eiE4xxw",
+      "pinterest_url": null,
+      "linkedin_url": "https://www.linkedin.com/company/randstad/",
+      "github_url": null
+    },
+    "industry": [
+      "Consulting",
+      "Employment",
+      "Human Resources",
+      "Recruiting",
+      "Staffing Agency"
+    ]
+  },
+  {
+    "name": "cred",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/zdc2kzof7ed0yebf5ctg",
+    "website": "http://www.credpr.com/",
+    "founders": {
+      "Caitlin Bartley": "https://www.twitter.com/caitlinabartley,https://www.linkedin.com/in/caitlinmacdonald/,http://www.credpr.com/"
+    },
+    "description": "cred is a unique communications agency dedicated to owning the events space. \n cred has raised a total of — in funding over 1 round. This was a Venture - Series Unknown round raised on Jul 1, 2020. \ncred is funded by Bossanova Investimentos. \n cred uses 38 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack. \n cred is actively using 29 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF. ",
+    "site_socials": {},
+    "industry": [
+      "Business Development",
+      "Business Intelligence",
+      "Event Management"
+    ]
+  },
+  {
+    "name": "TapTap",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397193794/f9ddb90584b9bfba56daf4eed386e58b.jpg",
+    "website": "http://www.taptap.me/",
+    "founders": { "Dmitry Gorilovskiy": "https://www.linkedin.com/in/mitgor/" },
+    "description": "TapTap is a technology to transfer touch between two people. It can also be an activity tracker, a game controller or smart alarm.\n\nTapTap connects you and your beloved one as if you never left each other. It is a way to say the most important thing to the most important person. Your beloved is the only one who will feel that you touched yourwristband. No matter how far away you are from each other, it feels like you just touched his hand. Two TapTap wristbands are connected only to each other, same as you two are. \n TapTap has raised a total of $50K in funding over 1 round. This was a Seed round raised on Sep 15, 2012. \n TapTap uses 10 technology products and services including HTML5, jQuery, and Vimeo, according to G2 Stack.",
+    "site_socials": {},
+    "industry": ["Consumer Electronics", "Hardware", "Software"]
+  },
+  {
+    "name": "Adobe",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/qnbpcajqvlw8bkul1tru",
+    "website": "http://www.adobe.com/",
+    "founders": {
+      "Charles Geschke": "https://www.linkedin.com/in/charles-geschke-657b5697"
+    },
+    "description": "Adobe is a software company that provides its users with digital marketing and media solutions. Its tools and services allow its customers to create ground-breaking digital content, deploy it across media and devices, measure and optimize it over time, and achieve greater business success.\n\nThe company helps its customers make, manage, measure,and monetize their content across every channel and screen. Its main products include Illustrator, Photoshop, Flash, Freehand, InDesign, Acrobat, Dreamweaver, and many others.\nAdobe is the global leader in digital marketing and digital media solutions. Their tools and services allow their customers to create groundbreaking digital content, deploy it across media and devices, measure and optimize it over time, and achieve greater business success. Adobe helps their customers make, manage, measure, and monetize their content across every channel and screen.\n\nAdobe was founded on January 1, 1982 in California, United States. \n Adobe has 475 current employee profiles, including Senior Director of Product Design Khoi Vinh. \nAdobe has 16 board members and advisors, including Amy Banse. \nAdobe uses 222 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack. \n Adobe is actively using 14 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and Apache.",
+    "site_socials": {},
+    "industry": [
+      "Consulting",
+      "Enterprise Software",
+      "Image Recognition",
+      "Photo Editing",
+      "SaaS"
+    ]
+  },
+  {
+    "name": "TikTok",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pgylhyxgfqueumssu8lq",
+    "website": "https://www.tiktok.com/",
+    "founders": {},
+    "description": "TikTok is a short-video sharing app and social network platform. The company's mission is to capture and present the world's creativity, knowledge, and precious life moments, directly from the mobile phone. TikTok enables everyone to be a creator and encourages users to share their passion and creative expression through their videos.\n\nItwas founded in 2016 and is headquartered in Los Angeles, California. \nTikTok has acquired 2 organizations. Their most recent acquisition was Jukedeck on Jul 23, 2019. \nTikTok uses 25 technology products and services including HTML5, Google Analytics, and Google Fonts, according to G2 Stack. \nTikTok is actively using 14 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and Content Delivery Network.",
+    "site_socials": {},
+    "industry": [
+      "Content Creators",
+      "Content Discovery",
+      "Mobile",
+      "Social Media",
+      "Video"
+    ]
+  },
+  {
+    "name": "YouTube",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/lnmhakopfojftyrzr4oa",
+    "website": "https://www.youtube.com/",
+    "founders": {
+      "Chad Hurley": "https://www.twitter.com/Chad_Hurley,https://www.linkedin.com/in/ChadHurley,https://www.facebook.com/ChadHurley",
+      "Jawed Karim": "https://www.jawed.com/",
+      "Keshav K Singh": "https://www.twitter.com/mitoscientist,https://www.linkedin.com/in/keshav-k-singh-phd-19122b4,https://www.facebook.com/singhke,http://www.mitochondria.org/",
+      " Peter Hirsch": "https://www.twitter.com/peterhirsch,https://www.linkedin.com/in/peterlhirsch,https://www.facebook.com/peterlhirsch",
+      "Steve Chen": "http://twitter.com/stevechen,https://www.linkedin.com/in/stevechen2,https://www.facebook.com/pages/Steve-Chen/118823544888101"
+    },
+    "description": "YouTube is a video-sharing website created in February 2005 by three former PayPal employees: Chad Hurley, Steve Chen and Jawed Karim.\n\nYouTube enables users to upload, view and share videos. It uses Adobe Flash video and HTML5 technology to display a wide variety of user-generated video content, including video clips, TV clips, music videos, and amateur content such as video blogging, short original videos, and educational videos.\nYouTube offers a variety of features, including playback, uploading, quality and codecs, and 3D video viewing. It also offers users the ability to view its videos on web pages outside their website. The videos on the site are playable on both iOS and Android platforms. Unregistered users can watch videos, while registered users can upload an unlimited number of videos. Videos considered to contain potentially offensive content are available only to registered users affirming themselves to be at least 18 years old.\n\nMost of the content on YouTube has not been uploaded by individuals, but by media corporations including CBS, BBC, Vevo, Hulu, Haber and other organizations that offer some of their material as part of the YouTube partnership program. Partners from major movie studios, record labels, web original creators, viral stars, and millions more all have channels on YouTube. YouTube is predominantly an ad-supported platform, but also offers rental options for a growing number of movie titles.\n\nYouTube is currently based in San Bruno, California, and is available in 76 languages.\n\nIn November 2006, YouTube was acquired by Google and now operates as a Google subsidiary.\nYouTube uses 21 technology products and services including HTML5, Google Analytics, and Google Fonts, according to G2 Stack.\nYouTube is actively using 7 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and Google Font API.",
+    "site_socials": {},
+    "industry": ["Internet", "Music", "Video"]
+  },
+  {
+    "name": "Mercedes Benz",
+    "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1475163424/jkblmtyibhimzxmgjh2y.jpg",
+    "website": "http://www.mercedes-benz.com/",
+    "founders": { "Carl Benz": "" },
+    "description": "Mercedes-Benz USA is an automotive company that specializes in the fields of manufacturing and distribution of cars. It also focuses on the fields of sales, marketing and distribution, and automotive. Mercedes-Benz was founded in 1926 and headquartered in Atlanta, Georgia.\nMercedes Benz uses 69 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.\nMercedes Benz is actively using 117 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and Google Font API.\nMercedes Benz has made 8 investments. Their most recent investment was on Nov 4, 2022, when The Mobility House raised €51.1M.\nMercedes Benz has invested in Factorial Energy on Nov 4, 2022. This investment - Series D - Factorial Energy - was valued at €51.1M.\nMercedes Benz has had 3 exits. Mercedes Benz's most notable exits include Luminar, RepairSmith, and Aston Martin.\nMercedes Benz has acquired FlightCar on Jul 14, 2016.",
+    "site_socials": {
+      "facebook_url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mercedes-benz.com%2Fen%2F",
+      "twitter_url": "https://www.twitter.com/intent/tweet?via=MercedesBenz&text=https%3A%2F%2Fwww.mercedes-benz.com%2Fen%2F",
+      "youtube_url": "https://www.youtube.com/user/MercedesBenzTV",
+      "instagram_url": "https://www.instagram.com/mercedesbenz/",
+      "linkedin_url": "https://www.linkedin.com/company/mercedes-benz_ag",
+      "pinterest_url": "https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.mercedes-benz.com%2Fen%2F"
+    },
+    "industry": [
+      "Automotive",
+      "Car Sharing",
+      "Manufacturing",
+      "Product Design",
+      "Recreational Vehicles"
+    ]
+  }
+]

@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  crunchbase_api: 'dfe6b1525c5c2cc5f9f2f085d899484f',
+  data_api: '674f810811ef87347b3f784e42958c91',
 };
 
 /*
